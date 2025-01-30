@@ -17,12 +17,12 @@ package estudos.maratonajava.introducao;
 public class TiposPrimitivos {
 
     public static void main(String[] args) {
-           int idade = 10;
-           long numeroGrande = 100000;
-           double salarioDouble = 2000;
-           float salarioFloat = 2500;
+           int idade = (int) 100000000000000000L;
+           long numeroGrande = 100000L;
+           double salarioDouble = 2000.0D;
+           float salarioFloat = 2500.0f;
            byte idadeByte = 12;
-           short idadeShort = 10;
+           short idadeShort = 32000;
            boolean verdadeiro = true;
             boolean falso = false;
             char caractere = '\u0041';
@@ -31,9 +31,10 @@ public class TiposPrimitivos {
             // no char podemos usar unicode ou asci
 
 
-            System.out.println("a idade é" + idade+ " anos");
+            System.out.println("a idade é " + idade+ " anos");
              System.out.println("unicode "+ caractere);
              System.out.println("Asci "+ caractereAsci);
+
 
     }
 }
