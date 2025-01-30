@@ -10,5 +10,27 @@ public class Operadores {
         double resultado = numero01 / numero02;
 
         System.out.println("valor "+resultado);
+
+        // %
+        int resto = 20 % 2;
+        System.out.println(resto);
+
+        // operadores logicos, sempre vao retornar um valor boolean
+        // maior > menor <
+        // <= menor igual >= maior igual
+        // dois iguais == significa que esta comprando
+        // != comparando se é diferente
+
+        boolean isDezMaiorQueVinte = 10 > 20;
+        boolean isDezMenorQueVinte = 10 < 20;
+        boolean isDezIgualVinte = 10 == 20;
+        boolean isDezIgualDez = 10 == 10;
+        boolean isDezDiferenteDez = 10 != 10;
+
+        System.out.println("isDezMaiorQueVinte "+isDezMaiorQueVinte);
+        System.out.println("isDezMenorQueVinte "+isDezMenorQueVinte);
+        System.out.println("isDezIgualVinte "+isDezIgualVinte);
+        System.out.println("isDezIgualDez "+isDezIgualDez);
+        System.out.println("isDezDiferenteDez "+isDezDiferenteDez);
     }
 }
