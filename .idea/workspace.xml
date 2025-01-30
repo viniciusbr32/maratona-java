@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1361eb42-a663-4f76-8a8c-db5f6421b996" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maratona-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Maratona-java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/TiposPrimitivos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +46,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Vinicius-Pc/Desktop/Maratona-java",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
   }
