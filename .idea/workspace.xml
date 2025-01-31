@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1361eb42-a663-4f76-8a8c-db5f6421b996" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/EstruturasCondicionais03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/EstruturasCondicionais04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/EstruturasCondicionais02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/EstruturasCondicionais02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/EstruturasCondicionais03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/EstruturasCondicionais03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +41,7 @@
     "Application.EstruturasCondicionais.executor": "Run",
     "Application.EstruturasCondicionais02.executor": "Run",
     "Application.EstruturasCondicionais03.executor": "Run",
+    "Application.EstruturasCondicionais04.executor": "Run",
     "Application.ExercicioTiposPrimitivos.executor": "Run",
     "Application.OlaMundo.executor": "Run",
     "Application.Operadores.executor": "Debug",
@@ -54,7 +57,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EstruturasCondicionais03">
+  <component name="RunManager" selected="Application.EstruturasCondicionais04">
     <configuration name="EstruturasCondicionais01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.introducao.EstruturasCondicionais01" />
       <module name="Maratona-java" />
@@ -94,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioTiposPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.introducao.ExercicioTiposPrimitivos" />
+    <configuration name="EstruturasCondicionais04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.introducao.EstruturasCondicionais04" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EstruturasCondicionais04" />
         <item itemvalue="Application.EstruturasCondicionais03" />
         <item itemvalue="Application.EstruturasCondicionais02" />
         <item itemvalue="Application.EstruturasCondicionais01" />
         <item itemvalue="Application.Operadores" />
-        <item itemvalue="Application.ExercicioTiposPrimitivos" />
       </list>
     </recent_temporary>
   </component>
