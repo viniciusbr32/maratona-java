@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1361eb42-a663-4f76-8a8c-db5f6421b996" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/EstruturasRepeticao03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/EstruturasRepeticao04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/EstruturasRepeticao05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +46,7 @@
     "Application.EstruturasRepeticao02.executor": "Run",
     "Application.EstruturasRepeticao03.executor": "Run",
     "Application.EstruturasRepeticao04.executor": "Run",
+    "Application.EstruturasRepeticao05.executor": "Run",
     "Application.ExercicioTiposPrimitivos.executor": "Run",
     "Application.OlaMundo.executor": "Run",
     "Application.Operadores.executor": "Debug",
@@ -62,20 +62,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EstruturasRepeticao04">
-    <configuration name="EstruturasCondicionais06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.introducao.EstruturasCondicionais06" />
-      <module name="Maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EstruturasRepeticao05">
     <configuration name="EstruturasRepeticao01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.introducao.EstruturasRepeticao01" />
       <module name="Maratona-java" />
@@ -128,13 +115,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EstruturasRepeticao05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.introducao.EstruturasRepeticao05" />
+      <module name="Maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estudos.maratonajava.introducao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EstruturasRepeticao05" />
         <item itemvalue="Application.EstruturasRepeticao04" />
         <item itemvalue="Application.EstruturasRepeticao03" />
         <item itemvalue="Application.EstruturasRepeticao02" />
         <item itemvalue="Application.EstruturasRepeticao01" />
-        <item itemvalue="Application.EstruturasCondicionais06" />
       </list>
     </recent_temporary>
   </component>
