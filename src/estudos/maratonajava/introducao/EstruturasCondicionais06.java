@@ -1,5 +1,5 @@
 package estudos.maratonajava.introducao;
-
+// exercicio
 public class EstruturasCondicionais06 {
     public static void main(String[] args) {
         // utilizando switch e  dados os valores 1 a 7, imprima se dia util ou final de semana
