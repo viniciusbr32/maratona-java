@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1361eb42-a663-4f76-8a8c-db5f6421b996" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Aintroducaoclasses/dominio/Estudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTeste01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/ArraysMultiDimensionais01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/ArraysMultiDimensionais01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/ArraysMultiDimensionais02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/ArraysMultiDimensionais02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
     "Application.EstruturasRepeticao03.executor": "Run",
     "Application.EstruturasRepeticao04.executor": "Run",
     "Application.EstruturasRepeticao05.executor": "Run",
+    "Application.EstudanteTeste01.executor": "Run",
     "Application.ExercicioTiposPrimitivos.executor": "Run",
     "Application.OlaMundo.executor": "Run",
     "Application.Operadores.executor": "Debug",
@@ -68,20 +69,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArraysMultiDimensionais02">
-    <configuration name="Arrays01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.introducao.Arrays01" />
-      <module name="Maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EstudanteTeste01">
     <configuration name="Arrays02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.introducao.Arrays02" />
       <module name="Maratona-java" />
@@ -134,13 +122,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EstudanteTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Aintroducaoclasses.test.EstudanteTeste01" />
+      <module name="Maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Aintroducaoclasses.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EstudanteTeste01" />
         <item itemvalue="Application.ArraysMultiDimensionais02" />
         <item itemvalue="Application.ArraysMultiDimensionais01" />
         <item itemvalue="Application.Arrays03" />
         <item itemvalue="Application.Arrays02" />
-        <item itemvalue="Application.Arrays01" />
       </list>
     </recent_temporary>
   </component>
