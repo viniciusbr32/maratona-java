@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1361eb42-a663-4f76-8a8c-db5f6421b996" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/Arrays01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/Arrays02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/Arrays03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/ArraysMultiDimensionais01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/ArraysMultiDimensionais02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/EstruturasRepeticao05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/maratonajava/introducao/EstruturasRepeticao05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +40,8 @@
     "Application.Arrays01.executor": "Run",
     "Application.Arrays02.executor": "Run",
     "Application.Arrays03.executor": "Run",
+    "Application.ArraysMultiDimensionais01.executor": "Run",
+    "Application.ArraysMultiDimensionais02.executor": "Run",
     "Application.EstruturasCondicionais.executor": "Run",
     "Application.EstruturasCondicionais02.executor": "Run",
     "Application.EstruturasCondicionais03.executor": "Run",
@@ -68,7 +68,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Arrays03">
+  <component name="RunManager" selected="Application.ArraysMultiDimensionais02">
     <configuration name="Arrays01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.introducao.Arrays01" />
       <module name="Maratona-java" />
@@ -108,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstruturasRepeticao04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.introducao.EstruturasRepeticao04" />
+    <configuration name="ArraysMultiDimensionais01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.introducao.ArraysMultiDimensionais01" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstruturasRepeticao05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.introducao.EstruturasRepeticao05" />
+    <configuration name="ArraysMultiDimensionais02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.introducao.ArraysMultiDimensionais02" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraysMultiDimensionais02" />
+        <item itemvalue="Application.ArraysMultiDimensionais01" />
         <item itemvalue="Application.Arrays03" />
         <item itemvalue="Application.Arrays02" />
         <item itemvalue="Application.Arrays01" />
-        <item itemvalue="Application.EstruturasRepeticao05" />
-        <item itemvalue="Application.EstruturasRepeticao04" />
       </list>
     </recent_temporary>
   </component>
