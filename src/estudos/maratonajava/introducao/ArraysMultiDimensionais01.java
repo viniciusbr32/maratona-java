@@ -24,6 +24,8 @@ public class ArraysMultiDimensionais01 {
                 System.out.println(num);
             }
         }
+
+
     }
 
 

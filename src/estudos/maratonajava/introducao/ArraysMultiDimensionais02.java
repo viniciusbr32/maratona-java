@@ -18,5 +18,12 @@ public class ArraysMultiDimensionais02 {
                 System.out.println(num);
             }
         }
+
+        for (int i = 0; i < arrayInt2.length; i++) {
+            for (int j = 0; j <arrayInt2[i].length ; j++) {
+
+                System.out.println("Entrei no Sub array do index "+i+" e Peguei o valor do elemento no index "+j+" Valor: "+arrayInt2[i][j]);
+            }
+        }
     }
 }
