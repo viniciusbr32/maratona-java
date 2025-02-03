@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1361eb42-a663-4f76-8a8c-db5f6421b996" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Aintroducaoclasses/dominio/Estudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Aintroducaoclasses/dominio/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Aintroducaoclasses/dominio/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Aintroducaoclasses/test/CarroTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Aintroducaoclasses/test/ProfessorTeste01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +44,7 @@
     "Application.Arrays03.executor": "Run",
     "Application.ArraysMultiDimensionais01.executor": "Run",
     "Application.ArraysMultiDimensionais02.executor": "Run",
+    "Application.CarroTeste01.executor": "Run",
     "Application.EstruturasCondicionais.executor": "Run",
     "Application.EstruturasCondicionais02.executor": "Run",
     "Application.EstruturasCondicionais03.executor": "Run",
@@ -69,20 +72,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EstudanteTeste01">
-    <configuration name="Arrays02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.introducao.Arrays02" />
-      <module name="Maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.CarroTeste01">
     <configuration name="Arrays03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.introducao.Arrays03" />
       <module name="Maratona-java" />
@@ -122,6 +112,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CarroTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Aintroducaoclasses.test.CarroTeste01" />
+      <module name="Maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Aintroducaoclasses.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EstudanteTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Aintroducaoclasses.test.EstudanteTeste01" />
       <module name="Maratona-java" />
@@ -137,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarroTeste01" />
         <item itemvalue="Application.EstudanteTeste01" />
         <item itemvalue="Application.ArraysMultiDimensionais02" />
         <item itemvalue="Application.ArraysMultiDimensionais01" />
         <item itemvalue="Application.Arrays03" />
-        <item itemvalue="Application.Arrays02" />
       </list>
     </recent_temporary>
   </component>
