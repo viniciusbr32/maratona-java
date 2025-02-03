@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1361eb42-a663-4f76-8a8c-db5f6421b996" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/BintroducaoMetodos/dominio/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/BintroducaoMetodos/teste/CalculadoraTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/BintroducaoMetodos/dominio/Estudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/BintroducaoMetodos/dominio/ImpressoraEstudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/BintroducaoMetodos/teste/CalculadoraTeste02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/BintroducaoMetodos/teste/EstudanteTeste01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/BintroducaoMetodos/dominio/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/BintroducaoMetodos/dominio/Calculadora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +46,7 @@
     "Application.ArraysMultiDimensionais01.executor": "Run",
     "Application.ArraysMultiDimensionais02.executor": "Run",
     "Application.CalculadoraTest01.executor": "Run",
+    "Application.CalculadoraTeste02.executor": "Run",
     "Application.CarroTeste01.executor": "Run",
     "Application.EstruturasCondicionais.executor": "Run",
     "Application.EstruturasCondicionais02.executor": "Run",
@@ -60,6 +64,7 @@
     "Application.OlaMundo.executor": "Run",
     "Application.Operadores.executor": "Debug",
     "Application.TiposPrimitivos.executor": "Debug",
+    "Application.estudos.maratonajava.javacore.BintroducaoMetodos.teste.EstudanteTeste01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -71,35 +76,22 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CalculadoraTest01">
-    <configuration name="ArraysMultiDimensionais01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.introducao.ArraysMultiDimensionais01" />
-      <module name="Maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArraysMultiDimensionais02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.introducao.ArraysMultiDimensionais02" />
-      <module name="Maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.estudos.maratonajava.javacore.BintroducaoMetodos.teste.EstudanteTeste01">
     <configuration name="CalculadoraTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.BintroducaoMetodos.teste.CalculadoraTest01" />
+      <module name="Maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estudos.maratonajava.javacore.BintroducaoMetodos.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraTeste02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.BintroducaoMetodos.teste.CalculadoraTeste02" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -137,13 +129,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="estudos.maratonajava.javacore.BintroducaoMetodos.teste.EstudanteTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.BintroducaoMetodos.teste.EstudanteTeste01" />
+      <module name="Maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estudos.maratonajava.javacore.BintroducaoMetodos.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.estudos.maratonajava.javacore.BintroducaoMetodos.teste.EstudanteTeste01" />
+        <item itemvalue="Application.CalculadoraTeste02" />
         <item itemvalue="Application.CalculadoraTest01" />
         <item itemvalue="Application.CarroTeste01" />
         <item itemvalue="Application.EstudanteTeste01" />
-        <item itemvalue="Application.ArraysMultiDimensionais02" />
-        <item itemvalue="Application.ArraysMultiDimensionais01" />
       </list>
     </recent_temporary>
   </component>
