@@ -26,7 +26,7 @@ public class Calculadora {
 
         return soma;
     }
-  
+
 }
 
 // 1, 3, 6, 10, 15;
