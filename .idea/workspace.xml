@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1361eb42-a663-4f76-8a8c-db5f6421b996" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/CsobrecargaMetodos/dominio/Anime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/CsobrecargaMetodos/teste/testeAnime01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Dconstrutores/dominio/Anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Dconstrutores/teste/testeAnime01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +66,7 @@
     "Application.PessoaTeste01.executor": "Run",
     "Application.TiposPrimitivos.executor": "Debug",
     "Application.estudos.maratonajava.javacore.BintroducaoMetodos.teste.EstudanteTeste01.executor": "Run",
+    "Application.estudos.maratonajava.javacore.Dconstrutores.teste.testeAnime01.executor": "Run",
     "Application.testeAnime01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -78,22 +79,15 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.testeAnime01">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="estudos.maratonajava.javacore.Dconstrutores.teste" />
+      <recent name="estudos.maratonajava.javacore.Dconstrutores.dominio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.estudos.maratonajava.javacore.Dconstrutores.teste.testeAnime01">
     <configuration name="CalculadoraTeste03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.BintroducaoMetodos.teste.CalculadoraTeste03" />
-      <module name="Maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.BintroducaoMetodos.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EstudanteTeste02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.BintroducaoMetodos.teste.EstudanteTeste02" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -131,6 +125,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="estudos.maratonajava.javacore.Dconstrutores.teste.testeAnime01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Dconstrutores.teste.testeAnime01" />
+      <module name="Maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Dconstrutores.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="testeAnime01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.CsobrecargaMetodos.teste.testeAnime01" />
       <module name="Maratona-java" />
@@ -146,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.estudos.maratonajava.javacore.Dconstrutores.teste.testeAnime01" />
         <item itemvalue="Application.testeAnime01" />
         <item itemvalue="Application.FuncionarioTeste01" />
         <item itemvalue="Application.PessoaTeste01" />
         <item itemvalue="Application.CalculadoraTeste03" />
-        <item itemvalue="Application.EstudanteTeste02" />
       </list>
     </recent_temporary>
   </component>
