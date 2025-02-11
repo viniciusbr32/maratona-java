@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1361eb42-a663-4f76-8a8c-db5f6421b996" name="Changes" comment="feat: blocos de inicialização">
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/FmodificadoresEstatico/dominio/Anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/FmodificadoresEstatico/teste/AnimeTeste01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/FmodificadoresEstatico/dominio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/FmodificadoresEstatico/dominio/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/FmodificadoresEstatico/teste/CarroTeste01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/FmodificadoresEstatico/teste/CarroTeste01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,13 +85,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="estudos.maratonajava.javacore.FmodificadoresEstatico.dominio" />
       <recent name="estudos.maratonajava.javacore.Dconstrutores.teste" />
       <recent name="estudos.maratonajava.javacore.Dconstrutores.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarroTeste01">
-    <configuration name="CarroTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.FmodificadoresEstatico.teste.CarroTeste01" />
+  <component name="RunManager" selected="Application.AnimeTeste01">
+    <configuration name="AnimeTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.FmodificadoresEstatico.teste.AnimeTeste01" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -103,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncionarioTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.BintroducaoMetodos.teste.FuncionarioTeste01" />
+    <configuration name="CarroTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.FmodificadoresEstatico.teste.CarroTeste01" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.BintroducaoMetodos.teste.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.FmodificadoresEstatico.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimeTeste01" />
         <item itemvalue="Application.CarroTeste01" />
         <item itemvalue="Application.TesteAnime01" />
         <item itemvalue="Application.estudos.maratonajava.javacore.Dconstrutores.teste.testeAnime01" />
         <item itemvalue="Application.testeAnime01" />
-        <item itemvalue="Application.FuncionarioTeste01" />
       </list>
     </recent_temporary>
   </component>
