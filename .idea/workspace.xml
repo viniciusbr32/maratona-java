@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1361eb42-a663-4f76-8a8c-db5f6421b996" name="Changes" comment="feat: blocos de inicialização">
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/FmodificadoresEstatico/dominio/Carro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/FmodificadoresEstatico/dominio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/FmodificadoresEstatico/dominio/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/FmodificadoresEstatico/teste/CarroTeste01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/FmodificadoresEstatico/teste/CarroTeste01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,51 +38,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Arrays01.executor": "Run",
-    "Application.Arrays02.executor": "Run",
-    "Application.Arrays03.executor": "Run",
-    "Application.ArraysMultiDimensionais01.executor": "Run",
-    "Application.ArraysMultiDimensionais02.executor": "Run",
-    "Application.CalculadoraTest01.executor": "Run",
-    "Application.CalculadoraTeste02.executor": "Run",
-    "Application.CalculadoraTeste03.executor": "Run",
-    "Application.CarroTeste01.executor": "Run",
-    "Application.EstruturasCondicionais.executor": "Run",
-    "Application.EstruturasCondicionais02.executor": "Run",
-    "Application.EstruturasCondicionais03.executor": "Run",
-    "Application.EstruturasCondicionais04.executor": "Run",
-    "Application.EstruturasCondicionais05.executor": "Run",
-    "Application.EstruturasCondicionais06.executor": "Run",
-    "Application.EstruturasRepeticao01.executor": "Run",
-    "Application.EstruturasRepeticao02.executor": "Run",
-    "Application.EstruturasRepeticao03.executor": "Run",
-    "Application.EstruturasRepeticao04.executor": "Run",
-    "Application.EstruturasRepeticao05.executor": "Run",
-    "Application.EstudanteTeste01.executor": "Run",
-    "Application.EstudanteTeste02.executor": "Run",
-    "Application.ExercicioTiposPrimitivos.executor": "Run",
-    "Application.FuncionarioTeste01.executor": "Run",
-    "Application.OlaMundo.executor": "Run",
-    "Application.Operadores.executor": "Debug",
-    "Application.PessoaTeste01.executor": "Run",
-    "Application.TesteAnime01.executor": "Run",
-    "Application.TiposPrimitivos.executor": "Debug",
-    "Application.estudos.maratonajava.javacore.BintroducaoMetodos.teste.EstudanteTeste01.executor": "Run",
-    "Application.estudos.maratonajava.javacore.Dconstrutores.teste.testeAnime01.executor": "Run",
-    "Application.testeAnime01.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Vinicius-Pc/Desktop/Maratona-java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Arrays01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraysMultiDimensionais01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraysMultiDimensionais02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraTeste02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraTeste03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarroTeste01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturasCondicionais.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturasCondicionais02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturasCondicionais03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturasCondicionais04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturasCondicionais05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturasCondicionais06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturasRepeticao01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturasRepeticao02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturasRepeticao03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturasRepeticao04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturasRepeticao05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstudanteTeste01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstudanteTeste02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExercicioTiposPrimitivos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FuncionarioTeste01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OlaMundo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operadores.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PessoaTeste01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteAnime01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TiposPrimitivos.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.estudos.maratonajava.javacore.BintroducaoMetodos.teste.EstudanteTeste01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.estudos.maratonajava.javacore.Dconstrutores.teste.testeAnime01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testeAnime01.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vinicius-Pc/Desktop/Maratona-java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="estudos.maratonajava.javacore.Dconstrutores.teste" />
