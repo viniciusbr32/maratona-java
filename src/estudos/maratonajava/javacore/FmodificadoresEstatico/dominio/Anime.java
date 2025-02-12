@@ -9,7 +9,7 @@ public class Anime {
     // 3- bloco inicialização é executado
     // 4- construtor é executado
 
-   static {
+    static {
         System.out.println("Dentro do bloco de inicialização");
         episodios = new int[100];
         for (int i = 0; i < episodios.length; i++) {
@@ -26,7 +26,7 @@ public class Anime {
     }
 
     public Anime() {
-        for(int episodio: Anime.episodios) {
+        for (int episodio : Anime.episodios) {
             System.out.print(episodio + " ");
         }
         System.out.println();
