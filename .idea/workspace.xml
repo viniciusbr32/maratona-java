@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1361eb42-a663-4f76-8a8c-db5f6421b996" name="Changes" comment="feat: blocos de inicialização">
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Gassociacao/dominio/Escola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Gassociacao/dominio/Jogador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Gassociacao/dominio/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Gassociacao/dominio/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Gassociacao/teste/EscolaTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Gassociacao/teste/JogadorTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Gassociacao/teste/JogadorTeste02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Gassociacao/teste/JogadorTeste03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Gassociacao/teste/LeituraDoTeclado01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/FmodificadoresEstatico/dominio/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/FmodificadoresEstatico/dominio/Anime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/FmodificadoresEstatico/teste/AnimeTeste01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/FmodificadoresEstatico/teste/AnimeTeste01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +68,7 @@
     "Application.JogadorTeste01.executor": "Run",
     "Application.JogadorTeste02.executor": "Run",
     "Application.JogadorTeste03.executor": "Run",
+    "Application.LeituraDoTeclado01.executor": "Run",
     "Application.OlaMundo.executor": "Run",
     "Application.Operadores.executor": "Debug",
     "Application.PessoaTeste01.executor": "Run",
@@ -103,35 +95,9 @@
       <recent name="estudos.maratonajava.javacore.Dconstrutores.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JogadorTeste03">
-    <configuration name="AnimeTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.FmodificadoresEstatico.teste.AnimeTeste01" />
-      <module name="Maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.FmodificadoresEstatico.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LeituraDoTeclado02">
     <configuration name="EscolaTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Gassociacao.teste.EscolaTeste01" />
-      <module name="Maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Gassociacao.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JogadorTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Gassociacao.teste.JogadorTeste01" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -169,13 +135,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LeituraDoTeclado01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Gassociacao.teste.LeituraDoTeclado01" />
+      <module name="Maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Gassociacao.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeituraDoTeclado02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Gassociacao.teste.LeituraDoTeclado02" />
+      <module name="Maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Gassociacao.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeituraDoTeclado02" />
+        <item itemvalue="Application.LeituraDoTeclado01" />
         <item itemvalue="Application.JogadorTeste03" />
         <item itemvalue="Application.EscolaTeste01" />
         <item itemvalue="Application.JogadorTeste02" />
-        <item itemvalue="Application.JogadorTeste01" />
-        <item itemvalue="Application.AnimeTeste01" />
       </list>
     </recent_temporary>
   </component>
