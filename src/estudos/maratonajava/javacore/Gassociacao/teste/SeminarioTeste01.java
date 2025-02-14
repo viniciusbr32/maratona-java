@@ -6,6 +6,11 @@ import estudos.maratonajava.javacore.Gassociacao.dominio.Professor;
 import estudos.maratonajava.javacore.Gassociacao.dominio.Seminario;
 
 public class SeminarioTeste01 {
+    /*
+
+
+     */
+
     public static void main(String[] args) {
         Aluno aluno1 = new Aluno("Vinicius", 19);
         Aluno aluno2 = new Aluno("TesteAluno2", 20);
