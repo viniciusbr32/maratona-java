@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1361eb42-a663-4f76-8a8c-db5f6421b996" name="Changes" comment="feat: aula sobre classes abstratas">
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/Error/teste/StacOverflowTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/Runtime/test/RuntimeException01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/Runtime/test/RuntimeException02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/Runtime/test/RuntimeException04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/Runtime/test/RuntimeException3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/dominio/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/dominio/Leitor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/dominio/Leitor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/dominio/LoginInvalidoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/dominio/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/exception/teste/ExceptionTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/exception/teste/ExceptionTeste02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/exception/teste/LoginInvalidoExceptionTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/exception/teste/SobrescritaComExceptionTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/exception/teste/TryWithResourcersTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Pwrappers/test/WrapperTeste01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,6 +97,7 @@
     "Application.TesteAnime01.executor": "Run",
     "Application.TiposPrimitivos.executor": "Debug",
     "Application.TryWithResourcersTeste01.executor": "Run",
+    "Application.WrapperTeste01.executor": "Run",
     "Application.estudos.maratonajava.javacore.BintroducaoMetodos.teste.EstudanteTeste01.executor": "Run",
     "Application.estudos.maratonajava.javacore.Dconstrutores.teste.testeAnime01.executor": "Run",
     "Application.testeAnime01.executor": "Run",
@@ -133,7 +120,7 @@
       <recent name="estudos.maratonajava.javacore.Dconstrutores.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SobrescritaComExceptionTeste01">
+  <component name="RunManager" selected="Application.WrapperTeste01">
     <configuration name="LoginInvalidoExceptionTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Oexception.exception.teste.LoginInvalidoExceptionTeste01" />
       <module name="Maratona-java" />
@@ -149,19 +136,6 @@
     </configuration>
     <configuration name="RuntimeException04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Oexception.Runtime.test.RuntimeException04" />
-      <module name="Maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Oexception.Runtime.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RuntimeException3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Oexception.Runtime.test.RuntimeException3" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -199,13 +173,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WrapperTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Pwrappers.test.WrapperTeste01" />
+      <module name="Maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Pwrappers.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WrapperTeste01" />
         <item itemvalue="Application.SobrescritaComExceptionTeste01" />
         <item itemvalue="Application.LoginInvalidoExceptionTeste01" />
         <item itemvalue="Application.TryWithResourcersTeste01" />
         <item itemvalue="Application.RuntimeException04" />
-        <item itemvalue="Application.RuntimeException3" />
       </list>
     </recent_temporary>
   </component>
