@@ -5,18 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1361eb42-a663-4f76-8a8c-db5f6421b996" name="Changes" comment="feat: aula sobre classes abstratas">
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Npolimorfismo/dominio/Computador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Npolimorfismo/dominio/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Npolimorfismo/dominio/Taxavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Npolimorfismo/dominio/Televisao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Npolimorfismo/dominio/Tomate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Npolimorfismo/servico/CalcularImposto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Npolimorfismo/teste/ProdutoTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Npolimorfismo/teste/ProdutoTeste02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Npolimorfismo/teste/ProdutoTeste03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/Error/teste/StacOverflowTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/Runtime/test/RuntimeException01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/Runtime/test/RuntimeException02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/Runtime/test/RuntimeException04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/Runtime/test/RuntimeException3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/dominio/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/dominio/Leitor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/dominio/Leitor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/dominio/LoginInvalidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/dominio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/exception/teste/ExceptionTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/exception/teste/ExceptionTeste02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/exception/teste/LoginInvalidoExceptionTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/exception/teste/SobrescritaComExceptionTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Oexception/exception/teste/TryWithResourcersTeste01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Minterfaces/dominio/DatabaseLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Minterfaces/dominio/DatabaseLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Minterfaces/teste/DataLoaderTeste01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Minterfaces/teste/DataLoaderTeste01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +82,8 @@
     "Application.EstruturasRepeticao05.executor": "Run",
     "Application.EstudanteTeste01.executor": "Run",
     "Application.EstudanteTeste02.executor": "Run",
+    "Application.ExceptionTeste01.executor": "Run",
+    "Application.ExceptionTeste02.executor": "Run",
     "Application.ExercicioTiposPrimitivos.executor": "Run",
     "Application.FuncionarioTeste01.executor": "Run",
     "Application.HerancaTeste01.executor": "Run",
@@ -87,15 +93,24 @@
     "Application.JogadorTeste03.executor": "Run",
     "Application.LeituraDoTeclado01.executor": "Run",
     "Application.LeituraDoTeclado02.executor": "Run",
+    "Application.LoginInvalidoExceptionTeste01.executor": "Run",
     "Application.OlaMundo.executor": "Run",
     "Application.Operadores.executor": "Debug",
     "Application.PessoaTeste01.executor": "Run",
     "Application.ProdutoTeste01.executor": "Run",
     "Application.ProdutoTeste02.executor": "Run",
     "Application.ProdutoTeste03.executor": "Run",
+    "Application.RepositorioTeste.executor": "Run",
+    "Application.RuntimeException01.executor": "Run",
+    "Application.RuntimeException02.executor": "Run",
+    "Application.RuntimeException04.executor": "Run",
+    "Application.RuntimeException3.executor": "Run",
     "Application.SeminarioTeste01.executor": "Run",
+    "Application.SobrescritaComExceptionTeste01.executor": "Run",
+    "Application.StacOverflowTeste01.executor": "Run",
     "Application.TesteAnime01.executor": "Run",
     "Application.TiposPrimitivos.executor": "Debug",
+    "Application.TryWithResourcersTeste01.executor": "Run",
     "Application.estudos.maratonajava.javacore.BintroducaoMetodos.teste.EstudanteTeste01.executor": "Run",
     "Application.estudos.maratonajava.javacore.Dconstrutores.teste.testeAnime01.executor": "Run",
     "Application.testeAnime01.executor": "Run",
@@ -112,18 +127,19 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="estudos.maratonajava.javacore.Npolimorfismo.servico" />
       <recent name="estudos.maratonajava.javacore.FmodificadoresEstatico.dominio" />
       <recent name="estudos.maratonajava.javacore.Dconstrutores.teste" />
       <recent name="estudos.maratonajava.javacore.Dconstrutores.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RepositorioTeste">
-    <configuration name="DataLoaderTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Minterfaces.teste.DataLoaderTeste01" />
+  <component name="RunManager" selected="Application.SobrescritaComExceptionTeste01">
+    <configuration name="LoginInvalidoExceptionTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Oexception.exception.teste.LoginInvalidoExceptionTeste01" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Minterfaces.teste.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Oexception.exception.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdutoTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Npolimorfismo.teste.ProdutoTeste01" />
+    <configuration name="RuntimeException04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Oexception.Runtime.test.RuntimeException04" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Npolimorfismo.teste.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Oexception.Runtime.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdutoTeste02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Npolimorfismo.teste.ProdutoTeste02" />
+    <configuration name="RuntimeException3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Oexception.Runtime.test.RuntimeException3" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Npolimorfismo.teste.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Oexception.Runtime.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdutoTeste03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Npolimorfismo.teste.ProdutoTeste03" />
+    <configuration name="SobrescritaComExceptionTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Oexception.exception.teste.SobrescritaComExceptionTeste01" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Npolimorfismo.teste.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Oexception.exception.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepositorioTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Npolimorfismo.teste.RepositorioTeste" />
+    <configuration name="TryWithResourcersTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Oexception.exception.teste.TryWithResourcersTeste01" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Npolimorfismo.teste.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Oexception.exception.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RepositorioTeste" />
-        <item itemvalue="Application.ProdutoTeste03" />
-        <item itemvalue="Application.ProdutoTeste02" />
-        <item itemvalue="Application.ProdutoTeste01" />
-        <item itemvalue="Application.DataLoaderTeste01" />
+        <item itemvalue="Application.SobrescritaComExceptionTeste01" />
+        <item itemvalue="Application.LoginInvalidoExceptionTeste01" />
+        <item itemvalue="Application.TryWithResourcersTeste01" />
+        <item itemvalue="Application.RuntimeException04" />
+        <item itemvalue="Application.RuntimeException3" />
       </list>
     </recent_temporary>
   </component>
@@ -242,6 +258,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.IllegalArgumentException" package="java.lang" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="2" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
