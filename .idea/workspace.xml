@@ -4,8 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1361eb42-a663-4f76-8a8c-db5f6421b996" name="Changes" comment="feat: aula sobre classes abstratas">
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Pwrappers/test/WrapperTeste01.java" afterDir="false" />
+    <list default="true" id="1361eb42-a663-4f76-8a8c-db5f6421b996" name="Changes" comment="feat: Aulas sobre Strings">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/ChronoUnitTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/DurationTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/InstantTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/LocalDateTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/LocalDateTimeTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/LocalTimeTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/PeriodTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/TemporalAdjusterTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/TemporalAdjustersTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/ZoneTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Sformatacao/teste/DateFormatTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Sformatacao/teste/DateTimeFormatterTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Sformatacao/teste/LocaleTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Sformatacao/teste/LocaleTeste02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Sformatacao/teste/NumberFormatTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Sformatacao/teste/NumberFormatTeste02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Sformatacao/teste/SimpleDateFormatTeste01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +44,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -50,10 +68,16 @@
     "Application.CalculadoraTest01.executor": "Run",
     "Application.CalculadoraTeste02.executor": "Run",
     "Application.CalculadoraTeste03.executor": "Run",
+    "Application.CalendarTeste01.executor": "Run",
     "Application.CarroTeste01.executor": "Run",
+    "Application.ChronoUnitTeste01.executor": "Run",
     "Application.ClassesAbstratasTeste01.executor": "Run",
     "Application.ClienteTeste01.executor": "Run",
     "Application.DataLoaderTeste01.executor": "Run",
+    "Application.DateFormatTeste01.executor": "Run",
+    "Application.DateTeste01.executor": "Run",
+    "Application.DateTimeFormatterTest01.executor": "Run",
+    "Application.DurationTeste01.executor": "Run",
     "Application.EscolaTeste01.executor": "Run",
     "Application.EstruturasCondicionais.executor": "Run",
     "Application.EstruturasCondicionais02.executor": "Run",
@@ -74,14 +98,23 @@
     "Application.FuncionarioTeste01.executor": "Run",
     "Application.HerancaTeste01.executor": "Run",
     "Application.HerancaTeste02.executor": "Run",
+    "Application.InstantTeste01.executor": "Run",
     "Application.JogadorTeste01.executor": "Run",
     "Application.JogadorTeste02.executor": "Run",
     "Application.JogadorTeste03.executor": "Run",
     "Application.LeituraDoTeclado01.executor": "Run",
     "Application.LeituraDoTeclado02.executor": "Run",
+    "Application.LocalDateTeste01.executor": "Run",
+    "Application.LocalDateTimeTeste01.executor": "Run",
+    "Application.LocalTimeTeste01.executor": "Run",
+    "Application.LocaleTeste01.executor": "Run",
+    "Application.LocaleTeste02.executor": "Run",
     "Application.LoginInvalidoExceptionTeste01.executor": "Run",
+    "Application.NumberFormatTeste01.executor": "Run",
+    "Application.NumberFormatTeste02.executor": "Run",
     "Application.OlaMundo.executor": "Run",
     "Application.Operadores.executor": "Debug",
+    "Application.PeriodTeste01.executor": "Run",
     "Application.PessoaTeste01.executor": "Run",
     "Application.ProdutoTeste01.executor": "Run",
     "Application.ProdutoTeste02.executor": "Run",
@@ -92,12 +125,19 @@
     "Application.RuntimeException04.executor": "Run",
     "Application.RuntimeException3.executor": "Run",
     "Application.SeminarioTeste01.executor": "Run",
+    "Application.SimpleDateFormatTeste01.executor": "Run",
     "Application.SobrescritaComExceptionTeste01.executor": "Run",
     "Application.StacOverflowTeste01.executor": "Run",
+    "Application.StringBuilderTeste01.executor": "Run",
+    "Application.StringPerfomaceTeste01.executor": "Run",
+    "Application.StringTeste02.executor": "Run",
+    "Application.StringtTeste01.executor": "Run",
+    "Application.TemporalAdjusterTeste01.executor": "Run",
     "Application.TesteAnime01.executor": "Run",
     "Application.TiposPrimitivos.executor": "Debug",
     "Application.TryWithResourcersTeste01.executor": "Run",
     "Application.WrapperTeste01.executor": "Run",
+    "Application.ZoneTeste01.executor": "Run",
     "Application.estudos.maratonajava.javacore.BintroducaoMetodos.teste.EstudanteTeste01.executor": "Run",
     "Application.estudos.maratonajava.javacore.Dconstrutores.teste.testeAnime01.executor": "Run",
     "Application.testeAnime01.executor": "Run",
@@ -120,13 +160,13 @@
       <recent name="estudos.maratonajava.javacore.Dconstrutores.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WrapperTeste01">
-    <configuration name="LoginInvalidoExceptionTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Oexception.exception.teste.LoginInvalidoExceptionTeste01" />
+  <component name="RunManager" selected="Application.DateTimeFormatterTest01">
+    <configuration name="ChronoUnitTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Rdatas.teste.ChronoUnitTeste01" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Oexception.exception.teste.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Rdatas.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RuntimeException04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Oexception.Runtime.test.RuntimeException04" />
+    <configuration name="DateTimeFormatterTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Sformatacao.teste.DateTimeFormatterTest01" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Oexception.Runtime.test.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Sformatacao.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SobrescritaComExceptionTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Oexception.exception.teste.SobrescritaComExceptionTeste01" />
+    <configuration name="TemporalAdjusterTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Rdatas.teste.TemporalAdjusterTeste01" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Oexception.exception.teste.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Rdatas.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryWithResourcersTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Oexception.exception.teste.TryWithResourcersTeste01" />
+    <configuration name="TemporalAdjustersTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Rdatas.teste.TemporalAdjustersTeste01" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Oexception.exception.teste.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Rdatas.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Pwrappers.test.WrapperTeste01" />
+    <configuration name="ZoneTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Rdatas.teste.ZoneTeste01" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Pwrappers.test.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Rdatas.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WrapperTeste01" />
-        <item itemvalue="Application.SobrescritaComExceptionTeste01" />
-        <item itemvalue="Application.LoginInvalidoExceptionTeste01" />
-        <item itemvalue="Application.TryWithResourcersTeste01" />
-        <item itemvalue="Application.RuntimeException04" />
+        <item itemvalue="Application.DateTimeFormatterTest01" />
+        <item itemvalue="Application.ZoneTeste01" />
+        <item itemvalue="Application.TemporalAdjusterTeste01" />
+        <item itemvalue="Application.TemporalAdjustersTeste01" />
+        <item itemvalue="Application.ChronoUnitTeste01" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +269,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739962861877</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: Aulas sobre Strings">
+      <option name="closed" value="true" />
+      <created>1741201058872</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741201058872</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -237,7 +285,8 @@
     <MESSAGE value="feat: aula sobre Enum, construtures e atributos, e sobreescrita de métodos com enum" />
     <MESSAGE value="feat: blocos de inicialização" />
     <MESSAGE value="feat: aula sobre classes abstratas" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: aula sobre classes abstratas" />
+    <MESSAGE value="feat: Aulas sobre Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Aulas sobre Strings" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

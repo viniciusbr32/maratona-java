@@ -1,0 +1,35 @@
+Index: src/estudos/maratonajava/javacore/Sformatacao/teste/NumberFormatTeste01.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/estudos/maratonajava/javacore/Sformatacao/teste/NumberFormatTeste01.java b/src/estudos/maratonajava/javacore/Sformatacao/teste/NumberFormatTeste01.java
+new file mode 100644
+--- /dev/null	(date 1741200646102)
++++ b/src/estudos/maratonajava/javacore/Sformatacao/teste/NumberFormatTeste01.java	(date 1741200646102)
+@@ -0,0 +1,25 @@
++package estudos.maratonajava.javacore.Sformatacao.teste;
++
++import java.text.NumberFormat;
++import java.util.Locale;
++
++public class NumberFormatTeste01 {
++    public static void main(String[] args) {
++        Locale localeBR = new Locale("pt", "BR");
++        Locale localeJP = Locale.JAPAN;
++        Locale localeIT = Locale.ITALIAN;
++
++        NumberFormat[] nfa = new NumberFormat[4];
++        nfa[0] = NumberFormat.getInstance();
++        nfa[1] = NumberFormat.getInstance(localeBR);
++        nfa[2] = NumberFormat.getInstance(localeIT);
++        nfa[3] = NumberFormat.getInstance(localeJP);
++
++        double valor = 10_000.2130;
++
++        for(NumberFormat nf: nfa) {
++            System.out.println(nf.format(valor));
++        }
++
++    }
++}
