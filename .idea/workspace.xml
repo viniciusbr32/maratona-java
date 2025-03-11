@@ -5,25 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1361eb42-a663-4f76-8a8c-db5f6421b996" name="Changes" comment="feat: Aulas sobre Strings">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/ChronoUnitTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/DurationTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/InstantTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/LocalDateTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/LocalDateTimeTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/LocalTimeTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/PeriodTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/TemporalAdjusterTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/TemporalAdjustersTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Rdatas/teste/ZoneTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Sformatacao/teste/DateFormatTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Sformatacao/teste/DateTimeFormatterTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Sformatacao/teste/LocaleTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Sformatacao/teste/LocaleTeste02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Sformatacao/teste/NumberFormatTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Sformatacao/teste/NumberFormatTeste02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Sformatacao/teste/SimpleDateFormatTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/TresourceBundle/teste/ResourceBundleTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Uregex/teste/PatternMatcherTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Uregex/teste/PatternMatcherTeste02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Uregex/teste/PatternMatcherTeste03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Uregex/teste/PatternMatcherTeste04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Uregex/teste/PatternMatcherTeste05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/messages_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/messages_pt_BR.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,12 +103,18 @@
     "Application.NumberFormatTeste02.executor": "Run",
     "Application.OlaMundo.executor": "Run",
     "Application.Operadores.executor": "Debug",
+    "Application.PatternMatcherTeste01.executor": "Run",
+    "Application.PatternMatcherTeste02.executor": "Run",
+    "Application.PatternMatcherTeste03.executor": "Run",
+    "Application.PatternMatcherTeste04.executor": "Run",
+    "Application.PatternMatcherTeste05.executor": "Run",
     "Application.PeriodTeste01.executor": "Run",
     "Application.PessoaTeste01.executor": "Run",
     "Application.ProdutoTeste01.executor": "Run",
     "Application.ProdutoTeste02.executor": "Run",
     "Application.ProdutoTeste03.executor": "Run",
     "Application.RepositorioTeste.executor": "Run",
+    "Application.ResourceBundleTeste01.executor": "Run",
     "Application.RuntimeException01.executor": "Run",
     "Application.RuntimeException02.executor": "Run",
     "Application.RuntimeException04.executor": "Run",
@@ -154,19 +149,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="estudos.maratonajava.javacore.Uregex.teste" />
       <recent name="estudos.maratonajava.javacore.Npolimorfismo.servico" />
       <recent name="estudos.maratonajava.javacore.FmodificadoresEstatico.dominio" />
       <recent name="estudos.maratonajava.javacore.Dconstrutores.teste" />
       <recent name="estudos.maratonajava.javacore.Dconstrutores.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DateTimeFormatterTest01">
-    <configuration name="ChronoUnitTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Rdatas.teste.ChronoUnitTeste01" />
+  <component name="RunManager" selected="Application.PatternMatcherTeste05">
+    <configuration name="PatternMatcherTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Uregex.teste.PatternMatcherTeste01" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Rdatas.teste.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Uregex.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateTimeFormatterTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Sformatacao.teste.DateTimeFormatterTest01" />
+    <configuration name="PatternMatcherTeste02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Uregex.teste.PatternMatcherTeste02" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Sformatacao.teste.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Uregex.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemporalAdjusterTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Rdatas.teste.TemporalAdjusterTeste01" />
+    <configuration name="PatternMatcherTeste03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Uregex.teste.PatternMatcherTeste03" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Rdatas.teste.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Uregex.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemporalAdjustersTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Rdatas.teste.TemporalAdjustersTeste01" />
+    <configuration name="PatternMatcherTeste04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Uregex.teste.PatternMatcherTeste04" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Rdatas.teste.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Uregex.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZoneTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Rdatas.teste.ZoneTeste01" />
+    <configuration name="PatternMatcherTeste05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Uregex.teste.PatternMatcherTeste05" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Rdatas.teste.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Uregex.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DateTimeFormatterTest01" />
-        <item itemvalue="Application.ZoneTeste01" />
-        <item itemvalue="Application.TemporalAdjusterTeste01" />
-        <item itemvalue="Application.TemporalAdjustersTeste01" />
-        <item itemvalue="Application.ChronoUnitTeste01" />
+        <item itemvalue="Application.PatternMatcherTeste05" />
+        <item itemvalue="Application.PatternMatcherTeste04" />
+        <item itemvalue="Application.PatternMatcherTeste03" />
+        <item itemvalue="Application.PatternMatcherTeste02" />
+        <item itemvalue="Application.PatternMatcherTeste01" />
       </list>
     </recent_temporary>
   </component>
