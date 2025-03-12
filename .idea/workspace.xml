@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1361eb42-a663-4f76-8a8c-db5f6421b996" name="Changes" comment="feat: Aulas sobre Strings">
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/TresourceBundle/teste/ResourceBundleTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Uregex/teste/PatternMatcherTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Uregex/teste/PatternMatcherTeste02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Uregex/teste/PatternMatcherTeste03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Uregex/teste/PatternMatcherTeste04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Uregex/teste/PatternMatcherTeste05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/messages_en_US.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/messages_pt_BR.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Uregex/teste/ScannerTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Uregex/teste/ScannerTeste02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,6 +113,8 @@
     "Application.RuntimeException02.executor": "Run",
     "Application.RuntimeException04.executor": "Run",
     "Application.RuntimeException3.executor": "Run",
+    "Application.ScannerTeste01.executor": "Run",
+    "Application.ScannerTeste02.executor": "Run",
     "Application.SeminarioTeste01.executor": "Run",
     "Application.SimpleDateFormatTeste01.executor": "Run",
     "Application.SobrescritaComExceptionTeste01.executor": "Run",
@@ -156,33 +152,7 @@
       <recent name="estudos.maratonajava.javacore.Dconstrutores.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PatternMatcherTeste05">
-    <configuration name="PatternMatcherTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Uregex.teste.PatternMatcherTeste01" />
-      <module name="Maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Uregex.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PatternMatcherTeste02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Uregex.teste.PatternMatcherTeste02" />
-      <module name="Maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Uregex.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ScannerTeste02">
     <configuration name="PatternMatcherTeste03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Uregex.teste.PatternMatcherTeste03" />
       <module name="Maratona-java" />
@@ -222,13 +192,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ScannerTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Uregex.teste.ScannerTeste01" />
+      <module name="Maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Uregex.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerTeste02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Uregex.teste.ScannerTeste02" />
+      <module name="Maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Uregex.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScannerTeste02" />
+        <item itemvalue="Application.ScannerTeste01" />
         <item itemvalue="Application.PatternMatcherTeste05" />
         <item itemvalue="Application.PatternMatcherTeste04" />
         <item itemvalue="Application.PatternMatcherTeste03" />
-        <item itemvalue="Application.PatternMatcherTeste02" />
-        <item itemvalue="Application.PatternMatcherTeste01" />
       </list>
     </recent_temporary>
   </component>
