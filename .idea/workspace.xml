@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1361eb42-a663-4f76-8a8c-db5f6421b996" name="Changes" comment="feat: Aulas sobre Strings">
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Uregex/teste/ScannerTeste01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Uregex/teste/ScannerTeste02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Vio/test/BufferedReaderTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Vio/test/BufferedWriterTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Vio/test/FileReaderTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Vio/test/FileTeste01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Vio/test/FileTeste02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudos/maratonajava/javacore/Vio/test/FileWriterTeste01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +29,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/estudos/maratonajava/javacore/Vio/test/FileReaderTest01.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
@@ -48,6 +55,8 @@
     "Application.Arrays03.executor": "Run",
     "Application.ArraysMultiDimensionais01.executor": "Run",
     "Application.ArraysMultiDimensionais02.executor": "Run",
+    "Application.BufferedReaderTest01.executor": "Run",
+    "Application.BufferedWriterTeste01.executor": "Run",
     "Application.CalculadoraTest01.executor": "Run",
     "Application.CalculadoraTeste02.executor": "Run",
     "Application.CalculadoraTeste03.executor": "Run",
@@ -78,6 +87,10 @@
     "Application.ExceptionTeste01.executor": "Run",
     "Application.ExceptionTeste02.executor": "Run",
     "Application.ExercicioTiposPrimitivos.executor": "Run",
+    "Application.FileReaderTest01.executor": "Run",
+    "Application.FileTeste01.executor": "Run",
+    "Application.FileTeste02.executor": "Run",
+    "Application.FileWriterTeste01.executor": "Run",
     "Application.FuncionarioTeste01.executor": "Run",
     "Application.HerancaTeste01.executor": "Run",
     "Application.HerancaTeste02.executor": "Run",
@@ -145,20 +158,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="estudos.maratonajava.javacore.Vio.test" />
       <recent name="estudos.maratonajava.javacore.Uregex.teste" />
       <recent name="estudos.maratonajava.javacore.Npolimorfismo.servico" />
       <recent name="estudos.maratonajava.javacore.FmodificadoresEstatico.dominio" />
       <recent name="estudos.maratonajava.javacore.Dconstrutores.teste" />
-      <recent name="estudos.maratonajava.javacore.Dconstrutores.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScannerTeste02">
-    <configuration name="PatternMatcherTeste03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Uregex.teste.PatternMatcherTeste03" />
+  <component name="RunManager" selected="Application.FileTeste02">
+    <configuration name="BufferedReaderTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Vio.test.BufferedReaderTest01" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Uregex.teste.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Vio.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PatternMatcherTeste04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Uregex.teste.PatternMatcherTeste04" />
+    <configuration name="BufferedWriterTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Vio.test.BufferedWriterTeste01" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Uregex.teste.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Vio.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PatternMatcherTeste05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Uregex.teste.PatternMatcherTeste05" />
+    <configuration name="FileReaderTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Vio.test.FileReaderTest01" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Uregex.teste.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Vio.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Uregex.teste.ScannerTeste01" />
+    <configuration name="FileTeste02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Vio.test.FileTeste02" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Uregex.teste.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Vio.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerTeste02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Uregex.teste.ScannerTeste02" />
+    <configuration name="FileWriterTeste01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estudos.maratonajava.javacore.Vio.test.FileWriterTeste01" />
       <module name="Maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estudos.maratonajava.javacore.Uregex.teste.*" />
+          <option name="PATTERN" value="estudos.maratonajava.javacore.Vio.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ScannerTeste02" />
-        <item itemvalue="Application.ScannerTeste01" />
-        <item itemvalue="Application.PatternMatcherTeste05" />
-        <item itemvalue="Application.PatternMatcherTeste04" />
-        <item itemvalue="Application.PatternMatcherTeste03" />
+        <item itemvalue="Application.FileTeste02" />
+        <item itemvalue="Application.BufferedReaderTest01" />
+        <item itemvalue="Application.BufferedWriterTeste01" />
+        <item itemvalue="Application.FileReaderTest01" />
+        <item itemvalue="Application.FileWriterTeste01" />
       </list>
     </recent_temporary>
   </component>
